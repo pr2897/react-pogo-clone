@@ -1,0 +1,149 @@
+{
+  "top-Games": [
+    {
+      "name": "MONOPOLY",
+      "image": "https://www.pogo.com/static/media/src/assets/games/monopolyclassic/gameTile__WJpQz.jpg",
+      "genre": "flash"
+    },
+    {
+      "name": "Word Whomp HD",
+      "image": "https://www.pogo.com/static/media/src/assets/games/wordwhomp_h5/gameTile__3GdNf.jpg",
+      "genre": "word"
+    },
+    {
+      "name": "RISK",
+      "image": "https://www.pogo.com/static/media/src/assets/games/risk/gameTile__12Uso.jpg",
+      "genre": "flash"
+    },
+    {
+      "name": "Poppit! HD",
+      "image": "https://www.pogo.com/static/media/src/assets/games/poppithd_h5/gameTile__32Nr8.jpg",
+      "genre": "match 3"
+    },
+    {
+      "name": "TRIVIAL PURSUIT Daily",
+      "image": "https://www.pogo.com/static/media/src/assets/games/trivial/gameTile__1xVvs.jpg",
+      "genre": "FLASH"
+    },
+    {
+      "name": "Bejeweled Stars",
+      "image": "https://www.pogo.com/static/media/src/assets/games/qutubminar_h5/gameTile__PoX_2.jpg",
+      "genre": "match 3"
+    },
+    {
+      "name": "Spades HD",
+      "image": "https://www.pogo.com/static/media/src/assets/games/thunderball_h5/gameTile__3k-tS.jpg",
+      "genre": "card"
+    }
+  ],
+  "Game-List": {
+    "Bingo": [
+      {
+        "name": "Lottso! Express HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/lottsoex_h5/gameTile__RPcjE.jpg",
+        "genre": "bingo"
+      },
+      {
+        "name": "Poppit! Bingo",
+        "image": "https://www.pogo.com/static/media/src/assets/games/bingo_h5/gameTile__29Pvu.jpg",
+        "genre": "bingo"
+      },
+      {
+        "name": "Bingo Luau",
+        "image": "https://www.pogo.com/static/media/src/assets/games/freebingo/gameTile__1dX11.jpg",
+        "genre": "flash"
+      },
+      {
+        "name": "Everyone Wins Bingo",
+        "image": "https://www.pogo.com/static/media/src/assets/games/teambingo/gameTile__3Q4A4.jpg",
+        "genre": "flash"
+      }
+    ],
+    "Board": [
+      {
+        "name": "BOGGLE Bash",
+        "image": "https://www.pogo.com/static/media/src/assets/games/boggle/gameTile__2AUMQ.jpg",
+        "genre": "flash"
+      },
+      {
+        "name": "Chess",
+        "image": "https://www.pogo.com/static/media/src/assets/games/chess2/gameTile__1IEJk.jpg",
+        "genre": "flash"
+      },
+      {
+        "name": "Dominoes",
+        "image": "https://www.pogo.com/static/media/src/assets/games/domino2/gameTile__3L68C.jpg",
+        "genre": "flash"
+      },
+      {
+        "name": "MONOPOLY",
+        "image": "https://www.pogo.com/static/media/src/assets/games/monopolyclassic/gameTile__WJpQz.jpg",
+        "genre": "flash"
+      },
+      {
+        "name": "A Way With Words",
+        "image": "https://www.pogo.com/static/media/src/assets/games/awaywithwords_h5/gameTile__TVl3z.jpg",
+        "genre": "word"
+      },
+      {
+        "name": "Yahtzee",
+        "image": "https://www.pogo.com/static/media/src/assets/games/yahtzeesingleplayer/gameTile__2jSvq.jpg",
+        "genre": "bingo"
+      }
+    ],
+    "Card": [
+      {
+        "name": "Canasta HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/pegasus_h5/gameTile__2UuEX.jpg",
+        "genre": "card"
+      },
+      {
+        "name": "Jungle Gin HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/anaconda_h5/gameTile__x8WGQ.jpg",
+        "genre": "card"
+      },
+      {
+        "name": "Spades HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/thunderball_h5/gameTile__3k-tS.jpg",
+        "genre": "card"
+      },
+      {
+        "name": "Aces Up! HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/aces_h5/gameTile__SNO0g.jpg",
+        "genre": "solitaire"
+      },
+      {
+        "name": "Turbo 21 HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/turbo21_h5/gameTile__xbcVt.jpg",
+        "genre": "casino"
+      }
+    ],
+    "Casino": [
+      {
+        "name": "Pogo Slots",
+        "image": "https://www.pogo.com/static/media/src/assets/games/tiger_h5/gameTile__3nm8B.jpg",
+        "genre": "casino"
+      },
+      {
+        "name": "Turbo 21 HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/turbo21_h5/gameTile__xbcVt.jpg",
+        "genre": "casino"
+      },
+      {
+        "name": "Double Deuce Poker HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/doubledeuce_h5/gameTile__2AQa1.jpg",
+        "genre": "poker"
+      },
+      {
+        "name": "Lottso! Express HD",
+        "image": "https://www.pogo.com/static/media/src/assets/games/lottsoex_h5/gameTile__RPcjE.jpg",
+        "genre": "bingo"
+      },
+      {
+        "name": "Poppit! Bingo",
+        "image": "https://www.pogo.com/static/media/src/assets/games/bingo_h5/gameTile__29Pvu.jpg",
+        "genre": "bingo"
+      }
+    ]
+  }
+}

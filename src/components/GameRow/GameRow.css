@@ -1,0 +1,9 @@
+.gamerow {
+  display: flex;
+  flex-direction: column;
+}
+
+.gamerow > h1 {
+  padding-left: 20px;
+  color: wheat;
+}

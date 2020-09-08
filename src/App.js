@@ -1,24 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import GameCard from "./components/GameCard/GameCard";
 
-function App() {
+import GameRow from "./components/GameRow/GameRow";
+import GameData from "./assets/game-data.json";
+
+function App(props) {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <GameRow title="Top Games" GameData={GameData["top-Games"]} />
+      <GameRow title="Bingo" GameData={GameData["Game-List"].Bingo} />
+      <GameRow title="Board" GameData={GameData["Game-List"].Board} />
+      <GameRow title="Card" GameData={GameData["Game-List"].Card} />
+      <GameRow title="Casino" GameData={GameData["Game-List"].Casino} />
     </div>
   );
 }
