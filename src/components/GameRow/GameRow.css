@@ -12,3 +12,11 @@ h1 {
   border-bottom-color: white;
   width: fit-content;
 }
+
+.gamelist {
+  width: 80%;
+}
+
+.card-width {
+  width: 383px;
+}
