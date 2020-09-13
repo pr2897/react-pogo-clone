@@ -52,3 +52,10 @@
   color: white;
   background-color: transparent;
 }
+
+.card__header > .MuiSvgIcon-root {
+  color: #99a2fc;
+  font-size: 54px;
+  margin: 0 auto;
+  padding: 1em;
+}

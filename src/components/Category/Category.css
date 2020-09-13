@@ -1,0 +1,20 @@
+.category {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.category > a {
+  text-decoration: none;
+  color: red;
+  margin-top: 20px;
+  background: #f6f920;
+  margin-left: auto;
+  border: 2px solid lightgray;
+}
+
+.game__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

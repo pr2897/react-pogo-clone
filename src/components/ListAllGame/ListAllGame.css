@@ -1,0 +1,21 @@
+.all-game-list {
+  display: flex;
+}
+
+.gamerow > h1 {
+  padding-left: 20px;
+  color: wheat;
+}
+
+h1 {
+  border-bottom-color: white;
+  width: fit-content;
+}
+
+.gamelist {
+  width: 80%;
+}
+
+.card-width {
+  width: 383px;
+}
