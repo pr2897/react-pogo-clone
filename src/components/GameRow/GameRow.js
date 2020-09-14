@@ -57,15 +57,13 @@ function GameRow({ deviceType, title, GameData, location }) {
       );
     });
     moreIcon = (
-      <Router>
-        <Link to={`category/${title}`}>
-          <GameCard
-            name={`See All ${title} Games`}
-            Icon={AddCircleOutlineIcon}
-            key={title}
-          />
-        </Link>
-      </Router>
+      <Link to={`category/${title}`}>
+        <GameCard
+          name={`See All ${title} Games`}
+          Icon={AddCircleOutlineIcon}
+          key={title}
+        />
+      </Link>
     );
   } else {
     rowContent = GameData.map(({ name, image, genre }) => (
